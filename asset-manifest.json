@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-App2/static/css/main.6762d6b8.chunk.css",
-    "main.js": "/React-App2/static/js/main.2da1aa0d.chunk.js",
-    "main.js.map": "/React-App2/static/js/main.2da1aa0d.chunk.js.map",
-    "runtime-main.js": "/React-App2/static/js/runtime-main.2fe99060.js",
-    "runtime-main.js.map": "/React-App2/static/js/runtime-main.2fe99060.js.map",
-    "static/js/2.2ab07c00.chunk.js": "/React-App2/static/js/2.2ab07c00.chunk.js",
-    "static/js/2.2ab07c00.chunk.js.map": "/React-App2/static/js/2.2ab07c00.chunk.js.map",
-    "static/js/3.25d67e5a.chunk.js": "/React-App2/static/js/3.25d67e5a.chunk.js",
-    "static/js/3.25d67e5a.chunk.js.map": "/React-App2/static/js/3.25d67e5a.chunk.js.map",
+    "main.css": "/React-App2/static/css/main.260948ef.chunk.css",
+    "main.js": "/React-App2/static/js/main.4483afb1.chunk.js",
+    "main.js.map": "/React-App2/static/js/main.4483afb1.chunk.js.map",
+    "runtime-main.js": "/React-App2/static/js/runtime-main.9083f56e.js",
+    "runtime-main.js.map": "/React-App2/static/js/runtime-main.9083f56e.js.map",
+    "static/js/2.2eba47f6.chunk.js": "/React-App2/static/js/2.2eba47f6.chunk.js",
+    "static/js/2.2eba47f6.chunk.js.map": "/React-App2/static/js/2.2eba47f6.chunk.js.map",
+    "static/js/3.a8269854.chunk.js": "/React-App2/static/js/3.a8269854.chunk.js",
+    "static/js/3.a8269854.chunk.js.map": "/React-App2/static/js/3.a8269854.chunk.js.map",
     "index.html": "/React-App2/index.html",
-    "static/css/main.6762d6b8.chunk.css.map": "/React-App2/static/css/main.6762d6b8.chunk.css.map",
-    "static/js/2.2ab07c00.chunk.js.LICENSE.txt": "/React-App2/static/js/2.2ab07c00.chunk.js.LICENSE.txt",
+    "static/css/main.260948ef.chunk.css.map": "/React-App2/static/css/main.260948ef.chunk.css.map",
+    "static/js/2.2eba47f6.chunk.js.LICENSE.txt": "/React-App2/static/js/2.2eba47f6.chunk.js.LICENSE.txt",
     "static/media/Logo.91928afa.png": "/React-App2/static/media/Logo.91928afa.png",
     "static/media/galaxya71.28b092fb.jpg": "/React-App2/static/media/galaxya71.28b092fb.jpg",
     "static/media/galaxys20+.d8188291.jpg": "/React-App2/static/media/galaxys20+.d8188291.jpg",
-    "static/media/iphone11.jpg": "/React-App2/static/media/iphone11.2b0147c7.jpg",
+    "static/media/iphone11.2b0147c7.jpg": "/React-App2/static/media/iphone11.2b0147c7.jpg",
     "static/media/iphone7.236451c1.jpg": "/React-App2/static/media/iphone7.236451c1.jpg",
     "static/media/slider1.cdf50640.jpg": "/React-App2/static/media/slider1.cdf50640.jpg",
     "static/media/slider2.0213232e.jpg": "/React-App2/static/media/slider2.0213232e.jpg",
@@ -28,9 +28,9 @@
     "static/media/slider9.ada99270.jpg": "/React-App2/static/media/slider9.ada99270.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fe99060.js",
-    "static/js/2.2ab07c00.chunk.js",
-    "static/css/main.6762d6b8.chunk.css",
-    "static/js/main.2da1aa0d.chunk.js"
+    "static/js/runtime-main.9083f56e.js",
+    "static/js/2.2eba47f6.chunk.js",
+    "static/css/main.260948ef.chunk.css",
+    "static/js/main.4483afb1.chunk.js"
   ]
 }
